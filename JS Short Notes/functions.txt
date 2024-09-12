@@ -1,0 +1,21 @@
+Introduction to Functions
+
+ 
+
+Definition: Reusable block of code for specific tasks.
+Advantages:
+Code Reusability: Use functions multiple times.
+Less Coding: Avoid repetitive logic (DRY principle).
+2. Function Declaration and Invoking
+Declaration: Use the function keyword, name the function, and write logic inside {}.
+Invocation: Call the function by its name with ().
+3. Function with Parameters
+Parameters: Listed in the function definition.
+Arguments: Values passed during invocation.
+Return Values: Use return to specify the output; without it, function returns undefined.
+Function Types
+Declaration: Named function, no variable assignment needed.
+Expression: Can be anonymous, stored in a variable.
+Parameter Handling
+Single/Multiple Parameters: Pass as needed.
+N Number of Parameters: Use arguments keyword.
